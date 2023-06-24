@@ -6,7 +6,9 @@
 // Hoera!
 // ==========================================
 
-
+for (let i = 0; i < 3; i++) {
+    console.log("Hoera!");
+}
 
 
 
@@ -20,7 +22,9 @@
 // De waarde van i is: 4
 // ==========================================
 
-
+for (let i = 0; i < 4; i++) {
+    console.log("De waarde van i is: " +i);
+}
 
 
 
@@ -38,7 +42,9 @@
 // 10
 // ==========================================
 
-
+for (let i = 2; i <= 10; i++) {
+    console.log(i);
+}
 
 
 
@@ -56,7 +62,9 @@
 // 70
 // ==========================================
 
-
+for (let i = 2; i <= 10; i++) {
+    console.log(i * 7);
+}
 
 
 
@@ -74,7 +82,9 @@
 // Wanneer een hond 10 jaar is, staat dat gelijk aan 70 mensenjaren.
 // ==========================================
 
-
+for (let i = 2; i <= 10; i++) {
+    console.log('Wanneer een hond ' + i + ' jaar is, staat dat gelijk aan ' + (i * 7) + ' mensenjaren');
+}
 
 
 
@@ -93,5 +103,7 @@
 // ==========================================
 
 
-
+for (let i = 0; i <= 15; i++) {
+    console.log(i);
+}
 
